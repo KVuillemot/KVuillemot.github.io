@@ -16,7 +16,7 @@ You can contact me at : [killian_vuillemot@etu.u-bourgogne.fr](mailto : killian_
 # Research interest 
 
 
-* Scientific calculus and programming
+* Scientific computing and programming
 * Finite element methods
 * Statistics in general
 
