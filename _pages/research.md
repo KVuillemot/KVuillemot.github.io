@@ -7,10 +7,7 @@ header:
   overlay_filter: "0.5"
 intro:
   - excerpt: "There you can find my talks, publications and scientific communication in general"
-
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 # Publications 
 
