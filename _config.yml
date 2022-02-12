@@ -30,15 +30,7 @@ plugins:
   - jekyll-include-cache
 
 
-
-collections:
-  reminders:
-    output: true
-    permalink: /:collection/:path/
-  teachings:
-    output: true
-    permalink: /:collection/:path/
-
+include: ["_pages", "_layouts"]
 
 # default configurations for each type
 defaults:
@@ -83,7 +75,6 @@ author:
   instagram        : 
   lastfm           :
   pinterest        :
-  linkedin         : "Killian Vuillemot"
   soundcloud       :
   stackoverflow    : 
   steam            : 
@@ -93,6 +84,10 @@ author:
   weibo            :
   xing             :
   youtube          : 
+  links:
+   - label: "LinkedIn"
+     icon: "fab fa-fw fa-linkedin"
+     url: "https://www.linkedin.com/in/killian-vuillemot-b90997211/"
 
 
 # Site
