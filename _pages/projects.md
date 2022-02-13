@@ -1,9 +1,9 @@
 ---
-layout: page 
+layout: splash 
 title:  "Projects" 
 permalink:  /projects/ 
 header:
-  overlay_color: "#000"
+  overlay_color: "#787878"
   overlay_filter: "0.5"
 intro:
   - excerpt: "There you can find some projects that I made during the previous years."

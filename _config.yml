@@ -24,13 +24,13 @@ github: [metadata]
 markdown: kramdown
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.20.1"
-minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
 
 
-include: ["_pages", "_layouts"]
+include: ["_data","_pages", "_layouts"]
 
 # default configurations for each type
 defaults:
