@@ -25,4 +25,4 @@ Partition of Unity Methods (Wiley Series in Computational Mechanics) 1st Edition
 * Franz Chouly, Xavier Dupuis, Killian Vuillemot. Analyse numérique MIGS 1re Année. Master.
 France. 2021. hal-03277223
 
-  \[[paper](https://hal.archives-ouvertes.fr/hal-03372733)]
+  \[[paper](https://cel.archives-ouvertes.fr/hal-03277223)]
