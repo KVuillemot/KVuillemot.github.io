@@ -9,6 +9,8 @@ intro:
   - excerpt: "There you can find some projects that I made during the previous years."
 ---
 
+{% include feature_row id="intro" type="center" %}
+
 ## Internship : about finite element methods 
 
 ## About the parareal in time algorithm

@@ -9,6 +9,8 @@ intro:
   - excerpt: "There you can find my talks, publications and scientific communication in general even if they are few in number."
 ---
 
+{% include feature_row id="intro" type="center" %}
+
 
 ## Publications 
 
