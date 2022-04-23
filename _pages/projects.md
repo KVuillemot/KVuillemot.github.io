@@ -13,7 +13,7 @@ intro:
 
 ## Internship (2021) : about the finite element method
 
-First year master degree internship, under the supervision of Michel Duprez. This internship was an introduction to the standard finite element method and has for objective to discover a new method called $\phi$-FEM introduced by Michel Duprez, Vanessa Lleras and Alexeï Lozinski in \[[paper](https://hal.archives-ouvertes.fr/hal-02521111)] and \[[paper](https://hal.archives-ouvertes.fr/hal-02521042v3)].
+First year master degree internship, under the supervision of Michel Duprez. This internship was an introduction to the standard finite element method and has for objective to discover a new method called $\phi${% include feature_row id="falling"%}-FEM introduced by Michel Duprez, Vanessa Lleras and Alexeï Lozinski in \[[paper](https://hal.archives-ouvertes.fr/hal-02521111)] and \[[paper](https://hal.archives-ouvertes.fr/hal-02521042v3)].
 
 During this internship, we also introduced a new $\phi$-FEM approach to solve Poisson problem with mixed boundary conditions, linear elasticity problems (Dirichlet conditions, Neumann conditions and mixed boudnary conditions).
 
