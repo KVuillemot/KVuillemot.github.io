@@ -4,22 +4,19 @@ title: ""
 author_profile: true
 ---
 
-## General 
+## General
 
 I'm currently a student in second year in applied mathematics Master's degree at Dijon.
 
-I worked with MIMESIS team, at INRIA during an internship in my first year of Master's degree. 
+I worked with MIMESIS team, at INRIA during an internship in my first year of Master's degree.
 
 You can contact me at : [killian_vuillemot@etu.u-bourgogne.fr](mailto : killian_vuillemot@etu.u-bourgogne.fr)
 
-
-## Research interest 
-
+## Research interest
 
 * Scientific computing and programming
 * Finite element methods
 * Statistics in general
-
 
 <!-- 
 ## Other interests 

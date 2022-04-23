@@ -11,14 +11,13 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-
-## Publications 
+## Publications
 
 ### Preprints, articles or book chapters
 
 * Stéphane Cotin, Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. ϕ-FEM: an efficient simulation tool using simple meshes for problems in structure mechanics and heat transfer.
 Partition of Unity Methods (Wiley Series in Computational Mechanics) 1st Edition, Wiley, 2022,
-978-0470667088. hal-03372733 
+978-0470667088. hal-03372733
 
   \[[paper](https://hal.archives-ouvertes.fr/hal-03372733)]
 
