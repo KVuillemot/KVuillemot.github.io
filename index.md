@@ -6,8 +6,8 @@ author_profile: true
 
 ## General
 
-I'm currently a first year PhD student in applied mathematics in Montpellier, under the supervision of [Michel Duprez](http://mduprez.perso.math.cnrs.fr/), [Vanessa Lleras](https://vanessalleras.wixsite.com/lleras) and [Bijan MOHAMMADI](https://www.iufrance.fr/les-membres-de-liuf/membre/156-bijan-mohammadi.html). 
-I work with the [MIMESIS](https://mimesis.inria.fr/) team (INRIA), locaated in Strasbourg, France. 
+I'm currently a first year PhD student in applied mathematics in Montpellier, under the supervision of [Michel Duprez](http://mduprez.perso.math.cnrs.fr/), [Vanessa Lleras](https://vanessalleras.wixsite.com/lleras) and [Bijan Mohammadi](https://www.iufrance.fr/les-membres-de-liuf/membre/156-bijan-mohammadi.html). 
+I work with the [MIMESIS](https://mimesis.inria.fr/) team (INRIA), located in Strasbourg, France. 
 
 I worked with MIMESIS team, at INRIA during an internship in my first year of Master's degree.
 
