@@ -15,11 +15,19 @@ intro:
 
 ### Preprints, articles or book chapters
 
+#### 2023
+* Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. $\phi$-FEM for the heat equation: optimal convergence on unfitted meshes in space.
+
+  \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03685445)], \[[codes (github)](https://github.com/KVuillemot/PhiFEM_Heat_Equation)]
+
+#### 2022
+
 * Stéphane Cotin, Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. ϕ-FEM: an efficient simulation tool using simple meshes for problems in structure mechanics and heat transfer.
 Partition of Unity Methods (Wiley Series in Computational Mechanics) 1st Edition, Wiley, 2022,
 978-0470667088. hal-03372733
 
-  \[[paper](https://hal.archives-ouvertes.fr/hal-03372733)]
+  \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03372733)], \[[pdf (revue)](https://www.amazon.com/XFEM-Extended-Element-Computational-Mechanics/dp/0470667087)]
+
 
 ### Lecture notes
 
