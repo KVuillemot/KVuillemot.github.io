@@ -16,7 +16,7 @@ intro:
 ### Preprints, articles or book chapters
 
 #### 2023
-* Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. $\phi$-FEM for the heat equation: optimal convergence on unfitted meshes in space.
+* Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. ϕ-FEM for the heat equation: optimal convergence on unfitted meshes in space.
 
   \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03685445)], \[[codes (github)](https://github.com/KVuillemot/PhiFEM_Heat_Equation)]
 
