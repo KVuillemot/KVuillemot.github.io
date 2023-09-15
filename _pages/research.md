@@ -13,16 +13,14 @@ intro:
 
 # Publications
 
-## Preprints, articles or book chapters
-
-### 2023
-#### Preprint
+## 2023
+### Preprint
 * Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. ϕ-FEM for the heat equation: optimal convergence on unfitted meshes in space. (accepted in CRAS)
 
   \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03685445)], \[[codes (github)](https://github.com/KVuillemot/PhiFEM_Heat_Equation)]
 
-### 2022
-#### Book chapter
+## 2022
+### Book chapter
 
 * Stéphane Cotin, Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. ϕ-FEM: an efficient simulation tool using simple meshes for problems in structure mechanics and heat transfer.
 Partition of Unity Methods (Wiley Series in Computational Mechanics) 1st Edition, Wiley, 2022,
@@ -30,8 +28,8 @@ Partition of Unity Methods (Wiley Series in Computational Mechanics) 1st Edition
 
   \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03372733)], \[[pdf (revue)](https://www.amazon.com/XFEM-Extended-Element-Computational-Mechanics/dp/0470667087)]
 
-### 2021
-#### Lecture notes
+## 2021
+### Lecture notes
 
 * Franz Chouly, Xavier Dupuis, Killian Vuillemot. Analyse numérique MIGS 1re Année. Master.
 France. 2021. hal-03277223
