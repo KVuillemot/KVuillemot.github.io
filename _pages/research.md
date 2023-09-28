@@ -35,3 +35,10 @@ Partition of Unity Methods (Wiley Series in Computational Mechanics) 1st Edition
 France. 2021. hal-03277223
 
   \[[paper](https://cel.archives-ouvertes.fr/hal-03277223)]
+
+# Talks 
+
+- <details><summary>
+September 2023: <i>A new unfitted finite element method: ϕ-FEM. </i>PhD students seminar, IMAG, Univ. Montpellier.</summary> <b> Abstract: </b>
+ϕ-FEM is a new finite element method, proposed to solve partial differential equations on complex domains, using simple non conform meshes. The method relies on the use of a level-set function ϕ, which defines the domain and its boundary. In this presentation, I will introduce the method in the simple case of the resolution of the Poisson equation with Dirichlet boundary conditions. Then I will present the extension of the method to the case of time-dependent PDE's, and more precisely the case of the Heat equation with Dirichlet boundary conditions. Then, I will present a way to combine ϕ-FEM and neural networks. I will illustrate the efficiency of this method using numerical results.  </details>
+\[[slides]({{ site.url }}/_data/beamer_montpellier.pdf)\]
