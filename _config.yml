@@ -29,7 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-
+google-site-verification: "MMgS7uHzIdPylcs-re3dz7IMc-MIsXX4RsXWRYXeDJ4"
 include: ["_data","_pages", "_layouts"]
 
 # default configurations for each type
