@@ -3,13 +3,16 @@ layout: splash
 title:  "Research" 
 permalink:  /research/ 
 header:
-  overlay_color: "#787878"
+  overlay_color: "#ABCAF7"
   overlay_filter: "0.5"
 intro:
   - excerpt: "There you can find my talks, publications and scientific communications."
 ---
 
-{% include feature_row id="intro" type="center" %}
+<h1>{% include feature_row id="intro" type="center" %}</h1>
+<hr style="border: 0;
+        height: 3px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(171,202,247), rgba(0, 0, 0, 0));">
 
 # Publications
 
@@ -18,6 +21,10 @@ intro:
 * Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. ϕ-FEM for the heat equation: optimal convergence on unfitted meshes in space. (accepted in CRAS)
 
   \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03685445)], \[[codes (github)](https://github.com/KVuillemot/PhiFEM_Heat_Equation)]
+
+<hr style="border: 0;
+        height: 3px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(171,202,247), rgba(0, 0, 0, 0));">
 
 ## 2022
 ### Book chapter
@@ -28,6 +35,10 @@ Partition of Unity Methods (Wiley Series in Computational Mechanics) 1st Edition
 
   \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03372733)], \[[pdf (revue)](https://www.amazon.com/XFEM-Extended-Element-Computational-Mechanics/dp/0470667087)]
 
+<hr style="border: 0;
+        height: 3px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(171,202,247), rgba(0, 0, 0, 0));">
+
 ## 2021
 ### Lecture notes
 
@@ -35,6 +46,10 @@ Partition of Unity Methods (Wiley Series in Computational Mechanics) 1st Edition
 France. 2021. hal-03277223
 
   \[[paper](https://cel.archives-ouvertes.fr/hal-03277223)]
+
+<hr style="border: 0;
+        height: 5px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(171,202,247), rgba(0, 0, 0, 0));">
 
 # Talks 
 

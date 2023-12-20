@@ -3,13 +3,18 @@ layout: splash
 title:  "Projects" 
 permalink:  /projects/ 
 header:
-  overlay_color: "#787878"
+  overlay_color: "#ABCAF7"
   overlay_filter: "0.5"
 intro:
   - excerpt: "There you can find some projects that I made during the previous years."
 ---
 
+<h1>
 {% include feature_row id="intro" type="center" %}
+</h1>
+<hr style="border: 0;
+        height: 3px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(171,202,247), rgba(0, 0, 0, 0));">
 
 ## Internship (2021) : about the finite element method
 
@@ -19,6 +24,10 @@ During this internship, we also introduced a new phi-FEM approach to solve Poiss
 
   \[[GitHub repository](https://github.com/KVuillemot/Stage_M1_Phi_FEM)]
 
+<hr style="border: 0;
+        height: 5px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(171,202,247), rgba(0, 0, 0, 0));">
+
 ## About the parareal in time algorithm
 
 First year of Master degree project. This project is a kind of introduction to ODEs resolution.
@@ -26,6 +35,10 @@ More precisely, we discuss here about different schemes to solve these equations
 
   \[[GitHub repository](https://github.com/KVuillemot/Project_M1_Parallelisation_en_temps)]
 
+<hr style="border: 0;
+        height: 5px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(171,202,247), rgba(0, 0, 0, 0));">
+        
 ## Bezier curves
 
 Introduction to Bezier curves for a bachelor degree project (in collaboration with Pauline Fossez and Estelle Laumont).
