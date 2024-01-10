@@ -17,10 +17,10 @@ intro:
 # Publications
 
 ## 2023
-### Preprint
+### Scientific articles
 * Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. ϕ-FEM for the heat equation: optimal convergence on unfitted meshes in space. (accepted in CRAS)
 
-  \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03685445)], \[[codes (github)](https://github.com/KVuillemot/PhiFEM_Heat_Equation)]
+  \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03685445)], \[[paper](https://comptes-rendus.academie-sciences.fr/mathematique/item/10.5802/crmath.497.pdf)], \[[codes (github)](https://github.com/PhiFEM/Heat-Equation)]
 
 <hr style="border: 0;
         height: 3px;
@@ -33,7 +33,7 @@ intro:
 Partition of Unity Methods (Wiley Series in Computational Mechanics) 1st Edition, Wiley, 2022,
 978-0470667088. hal-03372733
 
-  \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03372733)], \[[pdf (revue)](https://www.amazon.com/XFEM-Extended-Element-Computational-Mechanics/dp/0470667087)]
+  \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03372733)], \[[pdf (revue)](https://www.amazon.com/XFEM-Extended-Element-Computational-Mechanics/dp/0470667087)], \[[codes (github)](https://github.com/PhiFEM/Poisson-Mixed-Boundary-Fracture-Interface)]
 
 <hr style="border: 0;
         height: 3px;
