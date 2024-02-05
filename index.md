@@ -29,6 +29,6 @@ You can contact me at :
 * 2019-2022: Master's degree in applied mathematics (mathematics for engineering, algorithms and statistics), University of Burgundy (Dijon), France.
 * 2016-2019: Bachelor’s degree in mathematics, University of Burgundy (Dijon), France
 
-### Full-CV (last update 04-2023)
+### Full-CV (last update 02-2024)
 
 * French version :  [CV]({{ site.url }}/_data/CV_FR.pdf)
