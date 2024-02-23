@@ -16,9 +16,12 @@ intro:
 
 # Publications
 
-## 2023
-### Scientific articles
-* Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. ϕ-FEM for the heat equation: optimal convergence on unfitted meshes in space. (accepted in CRAS)
+## Scientific articles
+### 2024 
+*  **ϕ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. (submitted \[[preprint(hal)](https://hal.science/hal-04473794)])
+
+### 2023
+* **ϕ-FEM for the heat equation: optimal convergence on unfitted meshes in space.** Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. (accepted in CRAS)
 
   \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03685445)], \[[paper](https://comptes-rendus.academie-sciences.fr/mathematique/item/10.5802/crmath.497.pdf)], \[[codes (github)](https://github.com/PhiFEM/Heat-Equation)]
 
@@ -26,26 +29,19 @@ intro:
         height: 3px;
         background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(171,202,247), rgba(0, 0, 0, 0));">
 
-## 2022
-### Book chapter
+## Book chapter
 
-* Stéphane Cotin, Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. ϕ-FEM: an efficient simulation tool using simple meshes for problems in structure mechanics and heat transfer.
-Partition of Unity Methods (Wiley Series in Computational Mechanics) 1st Edition, Wiley, 2022,
-978-0470667088. hal-03372733
-
+*  **ϕ-FEM: an efficient simulation tool using simple meshes for problems in structure mechanics and heat transfer.** Stéphane Cotin, Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. 
+*Partition of Unity Methods (Wiley Series in Computational Mechanics)*, 2022.
   \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03372733)], \[[pdf (revue)](https://www.amazon.com/XFEM-Extended-Element-Computational-Mechanics/dp/0470667087)], \[[codes (github)](https://github.com/PhiFEM/Poisson-Mixed-Boundary-Fracture-Interface)]
 
 <hr style="border: 0;
         height: 3px;
         background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(171,202,247), rgba(0, 0, 0, 0));">
 
-## 2021
-### Lecture notes
+## Lecture notes
 
-* Franz Chouly, Xavier Dupuis, Killian Vuillemot. Analyse numérique MIGS 1re Année. Master.
-France. 2021. hal-03277223
-
-  \[[paper](https://cel.archives-ouvertes.fr/hal-03277223)]
+* **Analyse numérique MIGS 1re Année. Master.** Franz Chouly, Xavier Dupuis, Killian Vuillemot. France. 2021  \[[Cours (hal)](https://cel.archives-ouvertes.fr/hal-03277223)]
 
 <hr style="border: 0;
         height: 5px;
