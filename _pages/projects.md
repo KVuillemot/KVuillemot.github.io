@@ -7,12 +7,13 @@ header:
   overlay_filter: "0.5"
 intro:
   - excerpt: "There you can find some projects that I made during the previous years."
+classes: wide
 
 LevelSet_tools:
-  - image_path: /_data/images/star_boundary.pdf
+  - image_path: /_data/images/star_boundary.png
     alt: "from ls to boundary"
     excerpt: "Creation of boundary points from values of a level-set function."
-  - image_path: /_data/images/from_ls_to_mesh.pdf
+  - image_path: /_data/images/from_ls_to_mesh.png
     alt: "from ls to mesh"
     excerpt: "Creation of a triangular mesh from values of a level-set function."
 ---
