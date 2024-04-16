@@ -6,7 +6,7 @@ header:
   overlay_color: "#ABCAF7"
   overlay_filter: "0.5"
 intro:
-  - excerpt: "There you can find some projects that I made during the previous years."
+  - excerpt: "There you can find some of the projects I am (or was) working on."
 classes: wide
 
 LevelSet_tools:
@@ -27,7 +27,7 @@ LevelSet_tools:
 
 ## LevelSet tools : Python tools for domains defined by LS functions. 
 
-{% include feature_row id="LevelSet_tools" type="center" %}
+  {% include feature_row id="LevelSet_tools" %}
 
 The objective of this little project is to create a collection of small Python codes to interface between level-set functions and meshes. 
 More precisely, the following can be easily, precisely, and rapidly done for 2D domains: 
