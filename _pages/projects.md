@@ -16,6 +16,9 @@ LevelSet_tools:
   - image_path: ../_data/images/from_ls_to_mesh.png
     alt: "from ls to mesh"
     excerpt: "Creation of a triangular mesh from values of a level-set function."
+  - image_path: ../_data/images/from_ls_to_mesh_3D.png
+    alt: "from ls to mesh 3D"
+    excerpt: "Creation of a tetrahedral mesh from values of a level-set function."
 ---
 
 <h1>
@@ -30,10 +33,12 @@ LevelSet_tools:
 The objective of this little project is to create a collection of small Python codes to interface between level-set functions and meshes. 
 More precisely, the following can be easily, precisely, and rapidly done for 2D domains: 
   * creation of a set of boundary points from numpy arrays of values of LS function;
-  * creation of conforming meshes from numpy arrays of values of LS function, that can be used with FEniCS;
-The creation of 3D meshes is also available but is at this time not optimal because of the high computation time. 
+  * creation of conforming meshes from numpy arrays of values of LS function, that can be used with FEniCS.
+
+The creation of 3D meshes is also available but is actually not optimal because of the high computation time. 
 
   {% include feature_row id="LevelSet_tools" %}
+
 
 The codes are available at :   \[[GitHub repository](https://github.com/KVuillemot/Project_M1_Parallelisation_en_temps)]
 
