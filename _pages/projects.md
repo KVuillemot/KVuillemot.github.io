@@ -10,10 +10,10 @@ intro:
 classes: wide
 
 LevelSet_tools:
-  - image_path: ../_data/images/star_boundary.png
+  - image_path: ../_data/images/star_boundary.pdf
     alt: "from ls to boundary"
     excerpt: "Creation of boundary points from values of a level-set function."
-  - image_path: ../_data/images/from_ls_to_mesh.png
+  - image_path: ../_data/images/from_ls_to_mesh.pdf
     alt: "from ls to mesh"
     excerpt: "Creation of a triangular mesh from values of a level-set function."
 ---
@@ -27,7 +27,7 @@ LevelSet_tools:
 
 ## LevelSet tools : Python tools for domains defined by LS functions. 
 
-{% include feature_row id="LevelSet_tools" type="center" %}
+{% include feature_row id="LevelSet_tools" %}
 
 The objective of this little project is to create a collection of small Python codes to interface between level-set functions and meshes. 
 More precisely, the following can be easily, precisely and rapidly done for 2D domains: 
