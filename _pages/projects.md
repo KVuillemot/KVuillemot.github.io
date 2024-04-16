@@ -27,16 +27,7 @@ LevelSet_tools:
 
 ## LevelSet tools : Python tools for domains defined by LS functions. 
 
-<div class="container">
-  <div class="row justify-content-center">
-    {% for item in include.LevelSet_tools %}
-    <div class="col-lg-6 mb-4">
-      <img src="{{ item.image_path }}" alt="{{ item.alt }}">
-      <p>{{ item.excerpt }}</p>
-    </div>
-    {% endfor %}
-  </div>
-</div>
+  {% include feature_row id="LevelSet_tools" %}
 
 The objective of this little project is to create a collection of small Python codes to interface between level-set functions and meshes. 
 More precisely, the following can be easily, precisely, and rapidly done for 2D domains: 
