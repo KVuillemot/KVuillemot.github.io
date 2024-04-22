@@ -40,7 +40,7 @@ The creation of 3D meshes is also available but is actually not optimal because 
   {% include feature_row id="LevelSet_tools" %}
 
 
-The codes are available at :   \[[GitHub repository](https://github.com/KVuillemot/Project_M1_Parallelisation_en_temps)]
+The codes are available at :   \[[GitHub repository](https://github.com/KVuillemot/LevelSet_tools)]
 
 
 <hr style="border: 0;
