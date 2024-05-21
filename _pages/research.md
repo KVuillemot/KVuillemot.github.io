@@ -18,9 +18,9 @@ intro:
 
 ## Scientific articles
 ### 2024 
-*  **ϕ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. (submitted) 
+*  **ϕ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. (submitted)
 
-  \[[preprint(hal)](https://hal.science/hal-04473794)], \[[codes (github)](https://github.com/KVuillemot/PhiFEM_and_FNO/tree/main)]
+   \[[preprint(hal)](https://hal.science/hal-04473794)], \[[codes (github)](https://github.com/KVuillemot/PhiFEM_and_FNO/tree/main)]
 
 
 ### 2023
