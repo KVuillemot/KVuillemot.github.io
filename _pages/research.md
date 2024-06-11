@@ -68,7 +68,6 @@ April 2024: <i>A new unfitted finite element method: ϕ-FEM. </i>PhD students se
 ϕ-FEM is a new finite element method, proposed to solve partial differential equations on complex domains, using simple non conform meshes. The method relies on the use of a level-set function ϕ, which defines the domain and its boundary. In this presentation, I will introduce the method in the simple case of the resolution of the Poisson equation with Dirichlet boundary conditions. Then I will present the extension of the method to the case of time-dependent PDE's, and more precisely the case of the Heat equation with Dirichlet boundary conditions. Then, I will present a way to combine ϕ-FEM and neural networks. This method, called ϕ-FEM-FNO, has been introduced to achieve the resolution of multiple physics problems with good accuracy in real time. I will illustrate the interest of this approach with numerical results on two test cases solving the Poisson-Dirichlet equation on different types of shapes.  </details>
 
 - May 2024: <i>ϕ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries. </i>CANUM, Ile de Ré.
-
   \[[slides]({{ site.url }}/_data/canum.pdf)\]
 
 - <details><summary>
