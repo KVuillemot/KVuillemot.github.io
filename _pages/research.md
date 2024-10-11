@@ -58,10 +58,16 @@ intro:
 # Talks 
 
 - <details><summary>
-September 2023: <i>A new unfitted finite element method: φ-FEM. </i>PhD students seminar, IMAG, Univ. Montpellier.</summary> <b> Abstract: </b>
-φ-FEM is a new finite element method, proposed to solve partial differential equations on complex domains, using simple non conform meshes. The method relies on the use of a level-set function φ, which defines the domain and its boundary. In this presentation, I will introduce the method in the simple case of the resolution of the Poisson equation with Dirichlet boundary conditions. Then I will present the extension of the method to the case of time-dependent PDE's, and more precisely the case of the Heat equation with Dirichlet boundary conditions. Then, I will present a way to combine φ-FEM and neural networks. I will illustrate the efficiency of this method using numerical results.  </details>
-\[[slides]({{ site.url }}/_data/beamer_montpellier.pdf)\]
+June 2024: <i>A φ-FEM approach to train a FNO for variable geometries. </i>[ECCOMAS](https://eccomas2024.org), Lisbon.</summary> <b> Abstract: </b>
+φ-FEM is a new finite element method, proposed to solve partial differential equations on complex domains, using non-conforming meshes. The method relies on the use of a level-set function φ, which defines the domain and its boundary. In this presentation, we propose a way to combine this method and machine learning techniques (here the Fourier Neural Operator). This method, called φ-FEM-FNO, has been introduced to achieve the resolution of multiple physics problems with good accuracy in real time. For that, the neural operator is trained using synthetic φ-FEM data and the functions defining the governing equations to solve. The preliminary numerical results are very encouraging since for two test cases solving the Poisson-Dirichlet equation on different types of shapes, our approach reaches the precision of a standard finite element method, 100 times faster. </details>
+\[[slides]({{ site.url }}/_data/eccomas.pdf)\]
 
+- May 2024: <i>φ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries. </i>[CANUM](https://canum2024.math.cnrs.fr/fr/), Ile de Ré.
+  \[[slides]({{ site.url }}/_data/canum.pdf)\]
+
+- <details><summary>
+April 2024: <i>A new unfitted finite element method: φ-FEM. </i>PhD students seminar, IRMA, Univ. Strasbourg.</summary> <b> Abstract: </b>
+φ-FEM is a new finite element method, proposed to solve partial differential equations on complex domains, using simple non conform meshes. The method relies on the use of a level-set function φ, which defines the domain and its boundary. In this presentation, I will introduce the method in the simple case of the resolution of the Poisson equation with Dirichlet boundary conditions. Then I will present the extension of the method to the case of time-dependent PDE's, and more precisely the case of the Heat equation with Dirichlet boundary conditions. Then, I will present a way to combine φ-FEM and neural networks. This method, called φ-FEM-FNO, has been introduced to achieve the resolution of multiple physics problems with good accuracy in real time. I will illustrate the interest of this approach with numerical results on two test cases solving the Poisson-Dirichlet equation on different types of shapes.  </details>
 
 - <details><summary>
 February 2024: <i>φ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries. </i>MIMESIS/MLMS team seminar, Strasbourg.</summary> <b> Abstract: </b>
@@ -69,13 +75,8 @@ In this talk, we propose a way to solve partial differential equations (PDEs) by
 <!-- \[[slides]({{ site.url }}/_data/beamer_montpellier.pdf)\] -->
 
 - <details><summary>
-April 2024: <i>A new unfitted finite element method: φ-FEM. </i>PhD students seminar, IRMA, Univ. Strasbourg.</summary> <b> Abstract: </b>
-φ-FEM is a new finite element method, proposed to solve partial differential equations on complex domains, using simple non conform meshes. The method relies on the use of a level-set function φ, which defines the domain and its boundary. In this presentation, I will introduce the method in the simple case of the resolution of the Poisson equation with Dirichlet boundary conditions. Then I will present the extension of the method to the case of time-dependent PDE's, and more precisely the case of the Heat equation with Dirichlet boundary conditions. Then, I will present a way to combine φ-FEM and neural networks. This method, called φ-FEM-FNO, has been introduced to achieve the resolution of multiple physics problems with good accuracy in real time. I will illustrate the interest of this approach with numerical results on two test cases solving the Poisson-Dirichlet equation on different types of shapes.  </details>
+September 2023: <i>A new unfitted finite element method: φ-FEM. </i>PhD students seminar, IMAG, Univ. Montpellier.</summary> <b> Abstract: </b>
+φ-FEM is a new finite element method, proposed to solve partial differential equations on complex domains, using simple non conform meshes. The method relies on the use of a level-set function φ, which defines the domain and its boundary. In this presentation, I will introduce the method in the simple case of the resolution of the Poisson equation with Dirichlet boundary conditions. Then I will present the extension of the method to the case of time-dependent PDE's, and more precisely the case of the Heat equation with Dirichlet boundary conditions. Then, I will present a way to combine φ-FEM and neural networks. I will illustrate the efficiency of this method using numerical results.  </details>
+\[[slides]({{ site.url }}/_data/beamer_montpellier.pdf)\]
 
-- May 2024: <i>φ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries. </i>[CANUM](https://canum2024.math.cnrs.fr/fr/), Ile de Ré.
-  \[[slides]({{ site.url }}/_data/canum.pdf)\]
 
-- <details><summary>
-June 2024: <i>A φ-FEM approach to train a FNO for variable geometries. </i>[ECCOMAS](https://eccomas2024.org), Lisbon.</summary> <b> Abstract: </b>
-φ-FEM is a new finite element method, proposed to solve partial differential equations on complex domains, using non-conforming meshes. The method relies on the use of a level-set function φ, which defines the domain and its boundary. In this presentation, we propose a way to combine this method and machine learning techniques (here the Fourier Neural Operator). This method, called φ-FEM-FNO, has been introduced to achieve the resolution of multiple physics problems with good accuracy in real time. For that, the neural operator is trained using synthetic φ-FEM data and the functions defining the governing equations to solve. The preliminary numerical results are very encouraging since for two test cases solving the Poisson-Dirichlet equation on different types of shapes, our approach reaches the precision of a standard finite element method, 100 times faster. </details>
-\[[slides]({{ site.url }}/_data/eccomas.pdf)\]
