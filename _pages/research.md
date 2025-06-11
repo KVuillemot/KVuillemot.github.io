@@ -17,21 +17,21 @@ intro:
 # Publications
 
 ## Scientific articles
+
+### 2025 
+*  **φ-FD : A well-conditioned finite difference method inspired by ϕ-FEM for general geometries on elliptic PDEs.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. Journal of Scientific Computing, Volume 104, article number 23, (2025)   
+   [revue](https://link.springer.com/article/10.1007/s10915-025-02914-0#citeas),  [preprint(hal)](https://hal.science/hal-04731164), [codes (github)](https://github.com/PhiFEM/PhiFD)
+
+
 ### 2024 
-*  **φ-FD : A well-conditioned finite difference method inspired by ϕ-FEM for general geometries on elliptic PDEs.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. (submitted)
 
-   \[[preprint(hal)](https://hal.science/hal-04731164)], \[[codes (github)](https://github.com/PhiFEM/PhiFD)]
-
-
-*  **φ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. (submitted)
-
-   \[[preprint(hal)](https://hal.science/hal-04473794)], \[[codes (github)](https://github.com/KVuillemot/PhiFEM_and_FNO/tree/main)]
+*  **φ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. (submitted)   
+   [preprint(hal)](https://hal.science/hal-04473794), [codes (github)](https://github.com/KVuillemot/PhiFEM_and_FNO/tree/main)
 
 
 ### 2023
-* **φ-FEM for the heat equation: optimal convergence on unfitted meshes in space.** Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. (accepted in CRAS)
-
-  \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03685445)], \[[paper](https://comptes-rendus.academie-sciences.fr/mathematique/item/10.5802/crmath.497.pdf)], \[[codes (github)](https://github.com/PhiFEM/Heat-Equation)]
+* **φ-FEM for the heat equation: optimal convergence on unfitted meshes in space.** Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. Comptes Rendus. Mathématique, Volume 361 (2023) p. 1699-1710   
+  [preprint (hal)](https://hal.archives-ouvertes.fr/hal-03685445), [paper](https://comptes-rendus.academie-sciences.fr/mathematique/item/10.5802/crmath.497.pdf), [codes (github)](https://github.com/PhiFEM/Heat-Equation)
 
 <hr style="border: 0;
         height: 3px;
@@ -40,8 +40,8 @@ intro:
 ## Book chapter
 
 *  **φ-FEM: an efficient simulation tool using simple meshes for problems in structure mechanics and heat transfer.** Stéphane Cotin, Michel Duprez, Vanessa Lleras, Alexei Lozinski, Killian Vuillemot. 
-*Partition of Unity Methods (Wiley Series in Computational Mechanics)*, 2022.
-  \[[preprint (hal)](https://hal.archives-ouvertes.fr/hal-03372733)], \[[pdf (revue)](https://www.amazon.com/XFEM-Extended-Element-Computational-Mechanics/dp/0470667087)], \[[codes (github)](https://github.com/PhiFEM/Poisson-Mixed-Boundary-Fracture-Interface)]
+*Partition of Unity Methods (Wiley Series in Computational Mechanics)*, 2022.   
+  [preprint (hal)](https://hal.archives-ouvertes.fr/hal-03372733),  [pdf (revue)](https://www.amazon.com/XFEM-Extended-Element-Computational-Mechanics/dp/0470667087), [codes (github)](https://github.com/PhiFEM/Poisson-Mixed-Boundary-Fracture-Interface)
 
 <hr style="border: 0;
         height: 3px;
