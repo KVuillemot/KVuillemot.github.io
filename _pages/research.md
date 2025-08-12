@@ -18,15 +18,15 @@ intro:
 
 ## Scientific articles
 
+### 2026 
+
+*  **φ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. Communications in Nonlinear Science and Numerical Simulation, Volume 152, Part A, January 2026, 10913.    
+    [preprint (hal)](https://hal.science/hal-04473794), [revue](https://www.sciencedirect.com/science/article/pii/S1007570425005428?via%3Dihub), [codes (github)](https://github.com/PhiFEM/PhiFEM_and_FNO)
+
+
 ### 2025 
 *  **φ-FD : A well-conditioned finite difference method inspired by ϕ-FEM for general geometries on elliptic PDEs.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. Journal of Scientific Computing, Volume 104, article number 23, (2025)   
    [revue](https://link.springer.com/article/10.1007/s10915-025-02914-0#citeas),  [preprint(hal)](https://hal.science/hal-04731164), [codes (github)](https://github.com/PhiFEM/PhiFD)
-
-
-### 2024 
-
-*  **φ-FEM-FNO: a new approach to train a Neural Operator as a fast PDE solver for variable geometries.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. (submitted)   
-   [preprint(hal)](https://hal.science/hal-04473794), [codes (github)](https://github.com/KVuillemot/PhiFEM_and_FNO/tree/main)
 
 
 ### 2023
