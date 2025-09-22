@@ -25,7 +25,7 @@ intro:
 
 
 ### 2025 
-*  **φ-FD : A well-conditioned finite difference method inspired by ϕ-FEM for general geometries on elliptic PDEs.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. Journal of Scientific Computing, Volume 104, article number 23, (2025)   
+*  **φ-FD : A well-conditioned finite difference method inspired by φ-FEM for general geometries on elliptic PDEs.** M. Duprez, V. Lleras, A. Lozinski, V. Vigon and K. Vuillemot. Journal of Scientific Computing, Volume 104, article number 23, (2025)   
    [revue](https://link.springer.com/article/10.1007/s10915-025-02914-0#citeas),  [preprint(hal)](https://hal.science/hal-04731164), [codes (github)](https://github.com/PhiFEM/PhiFD)
 
 

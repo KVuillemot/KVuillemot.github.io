@@ -14,6 +14,7 @@ I worked with MIMESIS team, at INRIA as an intern during my first and second yea
 You can contact me at : 
 * [killian.vuillemot@umontpellier.fr](mailto : killian.vuillemot@umontpellier.fr)
 * [killian.vuillemot@inria.fr](mailto : killian.vuillemot@inria.fr)
+* [kvuillem@gmail.com](mailto : kvuillem@gmail.com)
 
 # Research interest
 
