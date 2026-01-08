@@ -57,8 +57,8 @@ defaults:
 author:
   name: "Killian Vuillemot"
   avatar: 
-  bio: "PhD student" # Note: Markdown is allowed
-  location: "Strasbourg, France"
+  bio: "PhD in applied mathematics" # Note: Markdown is allowed
+  location: "Dijon, France"
   email            : "killian.vuillemot@umontpellier.fr"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
