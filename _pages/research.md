@@ -16,6 +16,11 @@ intro:
 
 # Publications
 
+## Preprints 
+
+* **A penalized φ-FEM scheme for the Poisson Dirichlet problem.** R. Bulle, M. Duprez, V. Lleras, K. Vuillemot. [preprint (hal)](https://hal.science/hal-05495474v1)
+
+
 ## Scientific articles
 
 ### 2026 
