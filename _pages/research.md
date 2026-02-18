@@ -16,6 +16,11 @@ intro:
 
 # Publications
 
+## Thesis 
+
+* **Méthodes Éléments Finis non-conformes adaptées à la conception en temps réel de jumeaux numériques d'organes.** K. Vuillemot. 2025. [online version (tel), in french](https://theses.hal.science/tel-05469006)
+
+
 ## Preprints 
 
 * **A penalized φ-FEM scheme for the Poisson Dirichlet problem.** R. Bulle, M. Duprez, V. Lleras, K. Vuillemot. [preprint (hal)](https://hal.science/hal-05495474v1)
