@@ -23,6 +23,8 @@ intro:
 
 ## Preprints 
 
+* **A multigrid and neural network approach to reduce the computational cost of φ-FEM.** R. Bulle, M. Duprez, V. Lleras, K. Vuillemot. [preprint (hal)](https://hal.science/hal-05622220)
+
 * **A penalized φ-FEM scheme for the Poisson Dirichlet problem.** R. Bulle, M. Duprez, V. Lleras, K. Vuillemot. [preprint (hal)](https://hal.science/hal-05495474v1)
 
 
