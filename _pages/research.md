@@ -18,7 +18,7 @@ intro:
 
 ## Thesis 
 
-* **Méthodes Éléments Finis non-conformes adaptées à la conception en temps réel de jumeaux numériques d'organes.** K. Vuillemot. 2025. [online version (tel), in french](https://theses.hal.science/tel-05469006)
+* **Méthodes Éléments Finis non-conformes adaptées à la conception en temps réel de jumeaux numériques d'organes.** K. Vuillemot. 2025. [online version (tel), in french](https://theses.hal.science/tel-05469006v2)
 
 
 ## Preprints 
