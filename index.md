@@ -13,7 +13,6 @@ I did my PhD in applied mathematics in Montpellier ([IMAG](https://imag.umontpel
 I worked with MIMESIS team, at INRIA as an intern during my first and second year of Master's degree.
 
 You can contact me at : 
-* [killian.vuillemot@umontpellier.fr](mailto : killian.vuillemot@umontpellier.fr)
 * [kvuillem@gmail.com](mailto : kvuillem@gmail.com)
 
 # Research interest
