@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Home
-email: killian.vuillemot@umontpellier.fr
+email: kvuillem@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://KVuillemot.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -87,7 +87,7 @@ author:
   links:
    - label: "LinkedIn"
      icon: "fab fa-fw fa-linkedin"
-     url: "https://www.linkedin.com/in/killian-vuillemot-b90997211/"
+     url: "https://www.linkedin.com/in/killian-vuillemot/"
 
 
 # Site
